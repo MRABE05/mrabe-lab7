@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab7.py
+=================================================================
+    User login name: mrabe
+    Linux system name: ops445
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/mrabe/ops445/MRABE-LAB7
+    Start at: Sun Nov 24 01:34:35 2024
+=================================================================
